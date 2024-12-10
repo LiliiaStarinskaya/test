@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(143, 56, 143);
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 4px;
+  padding: 10px 4px;
+  font-family: Arial, sans-serif;
+  color: white;
+  font-weight: bold;
+}
+
+.left-section {
+  padding-left: 12px;
+}
+
+.middle-section input {
+  border: none;
+  width: 400px;
+  border-radius: 20px;
+  height: 35px;
+  padding-left: 10px;
+}
+
+.download-button {
+  background-color: rgb(143, 56, 143);
+  color: white;
+  border: 1px solid white;
+  height: 35px;
+  width: 150px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.download-button:hover {
+  background-color: rgb(120, 46, 120);
+}

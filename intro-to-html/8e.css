@@ -1,0 +1,49 @@
+.title {
+  font-family: Arial;
+  font-size: 35px;
+  margin-bottom: 22px;
+  
+}
+.location {
+  display: block;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: rgb(224, 221, 221);
+  width: 300px;
+  border: none;
+  margin-bottom: 4px;
+}
+.destination {
+  display: block;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: rgb(224, 221, 221);
+  width: 300px;
+  border: none;
+  margin-bottom: 22px;
+
+}
+.request-now {
+  background-color: black;
+  color: white;
+  padding-left: 14px;
+  padding-top: 10px;
+  padding-right: 14px;
+  padding-bottom: 10px;
+  border: none;
+  margin-right: 10px;
+}
+.schedule-later {
+  background-color: rgb(224, 221, 221);
+  color: black;
+  padding-left: 14px;
+  padding-top: 10px;
+  padding-right: 14px;
+  padding-bottom: 10px;
+  border: none;
+  margin-right: 10px;
+}
